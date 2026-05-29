@@ -1,0 +1,30 @@
+body {
+    background-color: #A3A380;
+}
+
+
+.box1 {
+
+    font-style: italic;
+    font-size: 50px;
+    color: #D7CE93;
+    text-align: center;
+
+    background-color: #EFEBCE;
+    border-radius: 30px;
+    padding: 15px;
+}
+
+.cats {
+    padding-top: 20px;
+    justify-content: center;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+
+}
+
+.cats img{
+
+    border-radius: 5%;
+}
